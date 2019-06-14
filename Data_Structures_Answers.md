@@ -15,6 +15,6 @@ Add your answers to the questions below.
 6. What is the space complexity of the provided code in `names.py`?
     O(n) Machine holding both lists. The longer the list,the more space
 7. What is the runtime complexity of your optimized code in `names.py`?
-    O(log n)
+    O(n log n)
 8. What is the space complexity of your optimized code in `names.py`?
     O(n)
