@@ -75,3 +75,5 @@ end_time = time.time()
 print (f"{len(duplicates)} duplicates:\n\n{', '.join(duplicates)}\n\n")
 print (f"runtime: {end_time - start_time} seconds")
 
+# Starting runtime was at about 7.5 seconds
+# New runtime at about 0.16 seconds
